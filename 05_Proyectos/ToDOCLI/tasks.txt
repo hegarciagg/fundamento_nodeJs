@@ -1,0 +1,5 @@
+Terminar implementación a la página|false
+Correr todos los días|false
+empezar aplicación|false
+salir a motilarme|false
+Correr|false

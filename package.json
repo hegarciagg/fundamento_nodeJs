@@ -1,0 +1,28 @@
+{
+  "name": "primero-pasos-npm",
+  "version": "1.0.0",
+  "description": "En este proyecto estamos aprendiendo npm",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hector Garcia <hegarciagg@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "chalk": "^5.3.0",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "fs-extra": "^11.1.1",
+    "imagemin-gifsicle": "^7.0.0",
+    "imagemin-jpegtran": "^7.0.0",
+    "imagemin-pngquant": "^9.0.2",
+    "imagemin-svgo": "^10.0.1",
+    "imagemin-webp": "^8.0.0",
+    "sass": "^1.69.4",
+    "serve": "^14.2.1",
+    "sharp": "^0.32.6"
+  }
+}
